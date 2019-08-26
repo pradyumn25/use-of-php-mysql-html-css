@@ -1,0 +1,26 @@
+body
+{
+  
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-Gradient(315deg,#89ff00,#00bcd4);
+}
+img
+{
+    transform: translate(10px,135px);
+    margin: 6%;
+    border: #00bcd4;
+    border-radius: 20px;
+}
+input
+{
+    border: #89ff00;
+    border-radius: 20px;
+    padding: 08px;
+    margin: 2%;
+    justify-content: center;
+    transform: translate(65px,150px);
+}
